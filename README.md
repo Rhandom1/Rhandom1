@@ -42,9 +42,10 @@
 
 ## About me
 
-- I'm currently learning Python
+- I'm currently learning AWS
+  -  <a target="blank" href="https://github.com/Rhandom1/aws-thought"> Follow my progress!</a>
 - You can find me at:
   - <a target="_blank" href="https://www.linkedin.com/in/shawn-mcwhorter/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <br>
   - <a target="_blank" href="mailto:shawnmc820@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 - Pronouns: He/Him/His
-- I taught Theatre for three years before the pandemic. While schools were closed, I continued to direct shows virtually and joined a coding bootcamp. I rediscovered my passion for coding and have really enjoyed the journey! I look forward learning more and gaining much needed experience while using my leadership, communication, and collaboration skills to help my team succeed!    
+- I taught Theatre for three years before the pandemic. While schools were closed, I continued to direct shows virtually and joined a coding bootcamp. I rediscovered my passion for coding and have really enjoyed the journey! I look forward to continued education and gaining much needed experience while using my leadership, communication, and collaboration skills to help my team succeed.    
